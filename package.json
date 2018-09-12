@@ -1,14 +1,11 @@
 {
-  "name": "react-scripts-ts",
+  "name": "@vesteind/react-scripts-ts",
   "version": "2.17.0",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "wmonk/create-react-app",
+  "repository": "woodstone/create-react-app-typescript-sass",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=6"
-  },
-  "bugs": {
-    "url": "https://github.com/wmonk/create-react-app/issues"
   },
   "files": ["bin", "config", "scripts", "template", "utils"],
   "bin": {
