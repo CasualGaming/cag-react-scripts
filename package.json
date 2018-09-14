@@ -1,6 +1,6 @@
 {
   "name": "@vesteind/react-scripts-ts-sass",
-  "version": "2.17.0-sass3",
+  "version": "2.17.0-boop",
   "description": "Configuration and scripts for Create React App.",
   "repository": "woodstone/create-react-app-typescript-sass",
   "license": "BSD-3-Clause",
@@ -69,6 +69,7 @@
   "devDependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
+    "react-router-dom": "^4.3.1",
     "typescript": "3.0.1"
   },
   "peerDependencies": {
