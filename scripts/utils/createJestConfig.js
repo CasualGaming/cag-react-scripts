@@ -45,6 +45,7 @@ module.exports = (resolve, rootDir, isEjecting) => {
     ],
     moduleNameMapper: {
       '^react-native$': 'react-native-web',
+      "@(.*)$": "<rootDir>/src/$1",
     },
     moduleFileExtensions: [
       'web.ts',
