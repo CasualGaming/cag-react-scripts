@@ -1,8 +1,8 @@
 {
-  "name": "@vesteind/react-scripts-ts-sass",
+  "name": "@cagolini/cag-react-scripts",
   "version": "2.17.0-boop",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "woodstone/create-react-app-typescript-sass",
+  "repository": "casualgaming/cag-react-scripts",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=6"
